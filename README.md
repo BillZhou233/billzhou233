@@ -15,6 +15,10 @@
 
 </details>
 
+#### FOR NON-CHINESE USERS
+
+- I'm currently using a translating system so mistakes are unavoidable when communicating in other languages.
+
 <!--
 **BillZhou233/billzhou233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
